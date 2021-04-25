@@ -1,6 +1,6 @@
 import yaml
 import copy
-from slowfast import models
+# from slowfast import models
 
 
 class CfgNode(object):
