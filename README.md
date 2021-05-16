@@ -35,9 +35,15 @@ WARNING: download each participant separately, expect 1-2 days to download the e
 - Original annotations from [here](https://github.com/epic-kitchens/epic-kitchens-100-annotations)
 
 ## Download other necessary files
-- Pretrained model `gdown --id 1cF9MlU7YhGTXn5KZVTklSYc1oypjUeaK`
-- Annotations separate by participants and video ids (processed ourselves) `gdown --id 1yeMFdejhz-1l439SSZBwNz9n0iAc5sLP`
-- Processed bounding box annotations `gdown --id `
+- Pretrained model [here](https://drive.google.com/file/d/1cF9MlU7YhGTXn5KZVTklSYc1oypjUeaK/view?usp=sharing) 
+
+`gdown --id 1cF9MlU7YhGTXn5KZVTklSYc1oypjUeaK`
+- Annotations separate by participants and video ids (processed ourselves) [here](https://drive.google.com/file/d/1yeMFdejhz-1l439SSZBwNz9n0iAc5sLP/view?usp=sharing)
+
+`gdown --id 1yeMFdejhz-1l439SSZBwNz9n0iAc5sLP`
+- Processed bounding box annotations [here](https://drive.google.com/file/d/1RgIML607xDfiy_vxZk6cWd0LbQMxmZRD/view?usp=sharing)
+
+`gdown --id 1RgIML607xDfiy_vxZk6cWd0LbQMxmZRD` 
 
 ## Example scripts
 
